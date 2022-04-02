@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     # django apps
     'tweet.apps.TweetConfig',
+    'account.apps.AccountConfig',
 ]
 
 MIDDLEWARE = [
